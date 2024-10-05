@@ -4,6 +4,7 @@
 
 I’ve just wrapped up creating an interactive Hotel Management Dashboard that provides key insights into booking trends, revenue, and cancellations. 
 Here's a glimpse of what the dashboard covers:
+
 💼 Total Bookings: 119.4K
 💵 Total Revenue: $29.6M
 📉 Revenue Loss: $13.1M
